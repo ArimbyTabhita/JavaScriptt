@@ -25,3 +25,6 @@ console.log(age);
 
 let kosong;
 console.log(kosong);
+
+let coba = (1-2, 2-1, 5+2);
+console.log(coba);
